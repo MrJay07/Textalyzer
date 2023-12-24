@@ -1,8 +1,8 @@
-# Vega React
-- Vega is React app which is used to analyse and manipulate your text.
+# Textalyzer React
+- Textalyzer is React app which is used to analyse and manipulate your text.
 - Made using the React js functional components.
 
-# Vega React Preview
+# Textalyzer React Preview
 - This what interface looks like.
  ![image](https://github.com/anamiikajha/Vega-React/assets/89740849/c09c46ec-66da-4e73-868f-d73c7c537c69)
 >
