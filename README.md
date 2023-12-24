@@ -1,10 +1,11 @@
-# Textalyzer React
+# Textalyzer
 - Textalyzer is React app which is used to analyse and manipulate your text.
 - Made using the React js functional components.
 
-# Textalyzer React Preview
+# Textalyzer Preview
 - This what interface looks like.
- ![image](https://github.com/anamiikajha/Vega-React/assets/89740849/c09c46ec-66da-4e73-868f-d73c7c537c69)
+ ![image](https://github.com/MrJay07/Textalyzer/assets/92586520/b16ac018-3a67-44e2-afa8-1b6e7b180f1c)
+
 >
 >
 # Getting Started with Create React App
